@@ -6,7 +6,16 @@ package com.gslab.gitdemo;
  */
 public class App 
 {
+
 	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		System.out.println("enter your name");
+		String name= sc.nextLine();
+		
+		System.out.println("welcome to GSlab "+name);
+		System.out.println("hi Everyone");
+		
 		int[] list = {8,3,6,2,7,1,9,4,10,5};
 		printArray(list);
 		mergeSort(list, 0, list.length - 1);
