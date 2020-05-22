@@ -14,5 +14,7 @@ public class App
 		String name= sc.nextLine();
 		
 		System.out.println("welcome to GSlab "+name);
+		System.out.println("hi Everyone");
+		
     }
 }
