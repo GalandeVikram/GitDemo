@@ -1,3 +1,5 @@
+package com.gslab.gitdemo;
+
 public class MergeSort {
 	public static void main(String[] args) {
 		int[] list = {8,3,6,2,7,1,9,4,10,5};
