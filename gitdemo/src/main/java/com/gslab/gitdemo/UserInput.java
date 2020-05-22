@@ -1,4 +1,4 @@
-package com.gslab;
+package com.gslab.gitdemo;
 
 import java.util.Scanner;
 
